@@ -26,6 +26,7 @@ This lab combines multiple networking concepts into a single topology to simulat
 ## Trunk Assignments
 <img width="1112" height="622" alt="image" src="https://github.com/user-attachments/assets/17425aa6-313c-4744-b849-2c788a330054" />
 
+## Show Commands
 show interfaces trunk
 show ip interface brief
 show ip route
