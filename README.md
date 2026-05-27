@@ -28,8 +28,13 @@ This lab combines multiple networking concepts into a single topology to simulat
 
 ## Show Commands
 show interfaces trunk
+
 show ip interface brief
+
 show ip route
+
 show running-config
+
 ping
+
 traceroute
